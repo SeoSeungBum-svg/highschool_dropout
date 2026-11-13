@@ -1,4 +1,4 @@
-![고등학교 중퇴율](./서울시_dropout-chart.png)
+![고등학교 중퇴율](./서울시_dropout_chart.png)
 
 <h2>정리</h2>
 
